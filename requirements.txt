@@ -1,8 +1,12 @@
 openai
 langchain
-stramlit     
+streamlit    
+ 
 # creating an env using streamlit
-pyhton-dotenv
+python-dotenv
+
 # to load environment variables
 PyPDF2
 # to read PDF files
+
+-e .
