@@ -1,0 +1,8 @@
+openai
+langchain
+stramlit     
+# creating an env using streamlit
+pyhton-dotenv
+# to load environment variables
+PyPDF2
+# to read PDF files
